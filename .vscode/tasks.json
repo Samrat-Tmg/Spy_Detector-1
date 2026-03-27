@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run spy-detector scan",
+			"type": "shell",
+			"command": "./.venv/bin/python",
+			"args": [
+				"-m",
+				"spy_detector",
+				"--json-output",
+				"reports/latest.json"
+			],
+			"group": "test"
+		}
+	]
+}
