@@ -1,4 +1,4 @@
-# Spy Detector (Defensive MVP)
+# Spy Detector-1 (Defensive MVP)
 
 A local-first defensive tool to detect potential indicators of unauthorized data capture on macOS endpoints.
 
